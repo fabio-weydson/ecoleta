@@ -1,4 +1,4 @@
 [build]
-base = "web"
-publish = "web/dist/"
+base = "/web"
+publish = "/web/public"
 command = "npm run start"

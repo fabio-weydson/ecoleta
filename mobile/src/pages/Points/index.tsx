@@ -135,7 +135,7 @@ const Points = () => {
                           longitude: point.longitude
                       }} style={styles.mapMarker}>
                         <View style={styles.mapMarkerContainer}>
-                          <Image source={{uri:`https://ecoleta-srv.herokuapp.com/uploads/${point.image}`}} style={styles.mapMarkerImage}></Image>
+                          <Image source={{uri:`https://ecoleta-srv.herokuapp.com/public/uploads/${point.image}`}} style={styles.mapMarkerImage}></Image>
                           <Text style={styles.mapMarkerTitle}>{point.name}</Text>
                         </View>
                       </Marker>)

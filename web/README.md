@@ -2,6 +2,7 @@
     <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
 </h1>
 
+
 <h4 align="center"> 
 	:heavy_check_mark:  NextLevelWeek 1.0 🚀 Done! :heavy_check_mark:
 </h4>

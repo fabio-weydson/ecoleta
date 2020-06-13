@@ -9,7 +9,7 @@
     "migrate": "knex --knexfile knexfile.ts migrate:latest",
     "seed": "knex --knexfile knexfile.ts seed:run"
   },
-  "author": "Fabio Weydson",
+  "author": "Fabio Weydson @fabio-weydson",
   "license": "MIT",
   "dependencies": {
     "@types/express": "^4.17.6",

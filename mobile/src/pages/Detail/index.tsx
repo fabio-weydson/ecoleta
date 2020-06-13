@@ -49,7 +49,7 @@ const Detail = () => {
 
   useEffect(()=>{
     async function loadPoint(id: Number){
-      await api.get(`http://192.168.0.105:3333/points/${id}`).then(res => {
+      await api.get(`https://ecoleta-srv.herokuapp.com/points/${id}`).then(res => {
         setPointData(res.data)
       
       }) .catch(error => console.log(error));
@@ -90,7 +90,7 @@ const Detail = () => {
            <TouchableOpacity onPress={handleNavigationBack}>
               <Icon name="chevron-left" color="#34CB79" size={30}></Icon>
             </TouchableOpacity>
-            <Image source={{uri:`http://192.168.0.105:3333/uploads/${pointData.point.image}`}} style={styles.pointImage}></Image>
+            <Image source={{uri:`https://ecoleta-srv.herokuapp.com/uploads/${pointData.point.image}`}} style={styles.pointImage}></Image>
             <Text style={styles.pointName}>{pointData.point.name}</Text> 
             <Text style={styles.pointItems}><FontAwesome name="recycle" color="#34CB79" size={14}></FontAwesome> {pointData.items.map(item=> item.title).join(', ')}</Text> 
             <View style={styles.address}>

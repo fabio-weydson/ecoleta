@@ -15,7 +15,7 @@ const upload = multer(multerConfig);
 const routes = express.Router();
 
 routes.get('/', (req,res) => { res.json({mensagem:"Servidor rodando"}) })
-routes.use('/uploads',express.static(path.resolve(__dirname, '..', 'uploads')))
+routes.use('/public/uploads',express.static(path.resolve(__dirname, '..', 'public/uploads')))
 
 // METODOS PADRAO
 // index, show, create, update, delete/destroy

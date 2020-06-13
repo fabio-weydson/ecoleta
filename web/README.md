@@ -1,68 +1,164 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src=".github/logo.svg" width="250px" />
+</h1>
 
-## Available Scripts
+<h4 align="center"> 
+	:heavy_check_mark:  NextLevelWeek 1.0 🚀 Done! :heavy_check_mark:
+</h4>
+<p align="center">	
+<a href="https://www.codacy.com/manual/DanielObara/NLW-1.0?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=DanielObara/NLW-1.0&amp;utm_campaign=Badge_Grade"><img src="https://app.codacy.com/project/badge/Grade/43a25c77fd4a4101a4ecc0d3df303a1e"/></a>
+	
 
-In the project directory, you can run:
+  <a aria-label="Completed" href="https://nextlevelweek.com/aulas/booster/1/edicao/1">
+    <img src="https://img.shields.io/badge/NLW-done-brightgreen?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  </a>
+  
+  <a href="https://github.com/DanielObara/NLW-1.0/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/DanielObara/NLW-1.0">
+  </a>
 
-### `npm start`
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   <a href="https://github.com/DanielObara/NLW-1.0/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/DanielObara/NLW-1.0?style=social">
+  </a>
+</p>
+<p align="center">
+<a href="https://insomnia.rest/run/?label=NLW%201.0%20-%20Ecoleta&uri=https%3A%2F%2Fraw.githubusercontent.com%2FDanielObara%2FNLW-1.0%2Fmaster%2Fbackend%2FInsomnia.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
+</p>
+<p align="center">
+  <a href="#-nlw">Next Level Week</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How to use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## :information_source: What's Next Level Week?
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+NLW is a practical week with lots of code, challenges, networking and a single objective: to take you to the next level.
+Through our method you will learn new tools, learn about new technologies and discover hacks that will boost your career.
+An online and completely free event that will help you take the next step in your evolution as a dev.
 
-### `npm test`
+### Days
+- Dia 1: Acelerando sua evolução 01/06 - :heavy_check_mark:
+- Dia 2: Olhando para as oportunidades 02/06 - :heavy_check_mark:
+- Dia 3: A escolha da Stack 03/06 - :heavy_check_mark:
+- Dia 4: Até 2 anos em 2 meses 04/06 - :heavy_check_mark:
+- Dia 5: Milha extra 05/06 - :heavy_check_mark:
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻 Project
 
-### `npm run build`
+Ecoleta is a project developed based on international environment week. 
+That aims to connect people to companies that collect specific waste such as light bulbs, batteries, cooking oil, etc.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<h1 align="center">
+    <img alt="Example" title="Example" src=".github/capa.svg" width="500px" />
+</h1>
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## :rocket: Technologies
 
-### `npm run eject`
+This project was developed with the following technologies:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [Node.js][nodejs]
+- [TypeScript][typescript]
+- [React][reactjs]
+- [React Native][rn]
+- [Expo][expo]
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🔖 Layout
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+To access the layout use [Figma](https://www.figma.com/file/1SxgOMojOB2zYT0Mdk28lB/).
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## :information_source: How To Use
 
-## Learn More
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js][nodejs] + [Yarn][yarn] installed on your computer.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+From your command line:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Install API 
 
-### Code Splitting
+```bash
+# Clone this repository
+$ git clone https://github.com/DanielObara/NLW-1.0
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+# Go into the repository
+$ cd NLW-1.0/backend
 
-### Analyzing the Bundle Size
+# Install dependencies
+$ yarn install
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+# Run Migrates
+$ yarn knex:migrate
 
-### Making a Progressive Web App
+# Run Seeds
+$ yarn knex:seed
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+# Start server
+$ yarn dev
 
-### Advanced Configuration
+# running on port 3333
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+### Install Front-end
 
-### Deployment
+```bash
+# Clone this repository
+$ git clone https://github.com/DanielObara/NLW-1.0
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+# Go into the repository
+$ cd NLW-1.0/frontent
 
-### `npm run build` fails to minify
+# Install dependencies
+$ yarn install
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+# Run
+$ yarn start
+
+# running on port 3000
+```
+
+### Install Mobile
+
+```bash
+# Clone this repository
+$ git clone https://github.com/DanielObara/NLW-1.0
+
+# Go into the repository
+$ cd NLW-1.0/mobile
+
+# Install dependencies
+$ yarn install
+
+# Run
+$ yarn start
+
+# Expo will open, just scan the qrcode on terminal or expo page
+
+# If some problem with fonts, execute:
+$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto
+
+```
+
+## 🤔 How to contribute
+
+-  Make a fork;
+-  Create a branch with your feature: `git checkout -b my-feature`;
+-  Commit changes: `git commit -m 'feat: My new feature'`;
+-  Make a push to your branch: `git push origin my-feature`.
+
+After merging your receipt request to done, you can delete a branch from yours.
+
+## :memo: License
+
+This project is under the MIT license. See the [LICENSE](https://github.com/DanielObara/NLW-1.0/blob/master/LICENSE) for details.
+
+
+[nodejs]: https://nodejs.org/
+[typescript]: https://www.typescriptlang.org/
+[expo]: https://expo.io/
+[reactjs]: https://reactjs.org
+[rn]: https://facebook.github.io/react-native/
+[yarn]: https://yarnpkg.com/
